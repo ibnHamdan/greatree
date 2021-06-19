@@ -12,6 +12,9 @@ body {
   color: #535353;
   overflow-x: hidden;
 }
+.header-title {
+  color: #30a2c2;
+}
 
 .page-wrapper {
   overflow-x: hidden;
